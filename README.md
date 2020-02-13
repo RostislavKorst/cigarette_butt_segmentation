@@ -1,0 +1,2 @@
+# cigarette_butt_segmentation
+InternshipTestTask
