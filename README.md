@@ -1,4 +1,3 @@
-# cigarette_butt_segmentation
-InternshipTestTask
+# Сегментирование сигаретных окурков с помощью сверточной нейронной сети (Сigarette butt segmentation)
 
-Сегментирование сигаретных окурков с помощью нейронной сети.
+InternshipTestTask
