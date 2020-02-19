@@ -1,0 +1,11 @@
+1. COCO Dataset Format - Complete Walkthrough 
+link: https://www.youtube.com/watch?v=h6s61a_pqfM&t=3s
+author: Adam Kelly (Immersive Limit)
+2. Cigarette butt dataset - synthetically composed images of cigarettes on the ground.
+link: https://www.immersivelimit.com/datasets/cigarette-butts
+author: Adam Kelly (Immersive Limit)
+3. TorchVision 0.3 Object Detection finetuning tutorial
+link: https://colab.research.google.com/github/pytorch/vision/blob/temp-tutorial/tutorials/torchvision_finetuning_instance_segmentation.ipynb#scrollTo=DfPPQ6ztJhv4
+author: -
+4. PyTorch documentation 
+link: https://pytorch.org/docs/stable/index.html
